@@ -15,8 +15,5 @@ int main(int argc, char** argv) {
 		printf("divisor_sum(%lu) = %lu\n", param, divisor_sum(param));
 		return 0;
 	}
-	else {
-		errx(1, "Error");
-	}
 	errx(1, "Error");
 }

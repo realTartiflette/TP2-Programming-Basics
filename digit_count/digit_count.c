@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 unsigned char digit_count(unsigned long n) {
 
 	unsigned long i = 9;

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 unsigned long fibo(unsigned long n) {
 	
 	unsigned long f = 0;

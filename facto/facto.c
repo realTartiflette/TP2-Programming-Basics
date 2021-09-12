@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 unsigned long facto(unsigned long n) {
 	
 	unsigned long result = 1;

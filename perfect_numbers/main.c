@@ -3,7 +3,7 @@
 
 int main() {
 
-	for (int i = 0; i <= 8128; i++) {
+	for (int i = 0; i <= 100000; i++) {
 		
 		if (is_perfect_number(i)) {
 			

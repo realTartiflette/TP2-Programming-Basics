@@ -1,10 +1,7 @@
-#include <stdio.h>
-#include <math.h>
-
 unsigned long divisor_sum(unsigned long n) {
 	
 	unsigned long sum;
-	if (n == 1) {
+	if (n==1) {
 		sum = 0;
 	}
 	else {

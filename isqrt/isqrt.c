@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 unsigned long isqrt(unsigned long n) {
 	
 	unsigned long r = n;
